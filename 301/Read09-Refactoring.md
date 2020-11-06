@@ -28,4 +28,19 @@ While refactoring can be applied to any programming language, the majority of re
 
 
 
+# Higher-order functions
+
+### Filter
+Given a collection, we want to filter by an attribute. The filter function expects a true or false value to determine if the element should or should not be included in the result collection. Basically, if the callback expression is true, the filter function will include the element in the result collection. Otherwise, it will not.
+
+
+### Map
+The idea of map is to transform a collection.
+The map method transforms a collection by applying a function to all of its elements and building a new collection from the returned values.
+
+### Reduce
+The idea of reduce is to receive a function and a collection, and return a value created by combining the items.
+
+
+
 ### ***Thank you*** 😁😊

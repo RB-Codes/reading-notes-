@@ -30,8 +30,9 @@ experience and hope we will do it.
 |  Read 08 |  [8](301/Read08-SQL.md)  |
 |  Read 09 |  [9](301/Read09-Refactoring.md)  |
 |  Read 10 |  [10](301/Read10-TheCallStack.md) |
-|  Read 11 |  [11](class-11.md) |
-|  Read 12 |  [12](class-12.md) |
-|  Read 13 |  [13](class-13.md) |
-|  Read 14 |  [14](class-14.md) |
-|  Read 15 |  [15](class-15.md) |
+|  Read 11 |  [11](301/Read11-EJS.md) |
+|  Read 12 |  [12](301/Read12-EJSPartials.md) |
+|  Read 13 |  [13](301/Read13-SengindFormData.md) |
+|  Read 14 |  [14](301/Read14-DBNormalization.md) |
+|  Read 14 |  [14](301/Read14b-Project.md) |
+|  Read 15 |  [15](301/Read15-Diversity.md) |
